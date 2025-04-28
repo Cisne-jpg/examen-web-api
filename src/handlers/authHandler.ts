@@ -1,4 +1,3 @@
-// src/handlers/authHandler.ts
 import { RequestHandler } from 'express';
 import { authenticate } from '../controllers/authController';
 
